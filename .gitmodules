@@ -29,3 +29,11 @@
 	path = admin/tool/webanalytics
 	url = https://github.com/catalyst/moodle-tool_webanalytics
 	branch = master
+[submodule "theme/essential"]
+	path = theme/essential
+	url = https://github.com/gjb2048/moodle-theme_essential
+	branch = V3.6.1.0
+[submodule "theme/fordson"]
+	path = theme/fordson
+	url = https://github.com/dbnschools/moodle-theme_fordson
+	branch = moodle36
