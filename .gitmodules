@@ -5,3 +5,23 @@
 	path = theme/fordson
 	url = https://github.com/dbnschools/moodle-theme_fordson
 	branch = moodle36
+[submodule "mod/Surveypro"]
+	path = mod/Surveypro
+	url = https://github.com/kordan/moodle-mod_surveypro
+	branch = master
+[submodule "mod/moodleoverflow"]
+	path = mod/moodleoverflow
+	url = https://github.com/learnweb/moodle-mod_moodleoverflow
+	branch = master
+[submodule "mod/reengagement"]
+	path = mod/reengagement
+	url = https://github.com/catalyst/moodle-mod_reengagement
+	branch = master
+[submodule "mod/questionnaire"]
+	path = mod/questionnaire
+	url = https://github.com/PoetOS/moodle-mod_questionnaire
+	branch = master
+[submodule "mod/subcourse"]
+	path = mod/subcourse
+	url = https://github.com/mudrd8mz/moodle-mod_subcourse
+	branch = master
