@@ -29,3 +29,7 @@
 	path = blocks/configurable_reports
 	url = https://github.com/jleyva/moodle-block_configurablereports
 	branch = MOODLE_36_STABLE
+[submodule "admin/tool/webanalytics"]
+	path = admin/tool/webanalytics
+	url = https://github.com/catalyst/moodle-tool_webanalytics
+	branch = master
