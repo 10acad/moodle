@@ -25,3 +25,7 @@
 	path = mod/subcourse
 	url = https://github.com/mudrd8mz/moodle-mod_subcourse
 	branch = master
+[submodule "blocks/configurable_reports"]
+	path = blocks/configurable_reports
+	url = https://github.com/jleyva/moodle-block_configurablereports
+	branch = MOODLE_36_STABLE
