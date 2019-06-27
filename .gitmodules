@@ -1,0 +1,3 @@
+[submodule "enrol/autoenrol"]
+	path = enrol/autoenrol
+	url = https://github.com/bobopinna/moodle-enrol_autoenrol
