@@ -32,8 +32,12 @@
 [submodule "theme/essential"]
 	path = theme/essential
 	url = https://github.com/gjb2048/moodle-theme_essential
-	branch = V3.6.1.0
+	branch = master
 [submodule "theme/fordson"]
 	path = theme/fordson
 	url = https://github.com/dbnschools/moodle-theme_fordson
 	branch = moodle36
+[submodule "blocks/xp"]
+	path = blocks/xp
+	url = https://github.com/FMCorz/moodle-block_xp
+	branch = v3.6.1
