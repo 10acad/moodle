@@ -1,10 +1,6 @@
 [submodule "enrol/autoenrol"]
 	path = enrol/autoenrol
 	url = https://github.com/bobopinna/moodle-enrol_autoenrol
-[submodule "theme/fordson"]
-	path = theme/fordson
-	url = https://github.com/dbnschools/moodle-theme_fordson
-	branch = moodle36
 [submodule "mod/Surveypro"]
 	path = mod/Surveypro
 	url = https://github.com/kordan/moodle-mod_surveypro
