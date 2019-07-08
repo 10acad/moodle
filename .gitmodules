@@ -21,10 +21,6 @@
 	path = mod/subcourse
 	url = https://github.com/mudrd8mz/moodle-mod_subcourse
 	branch = master
-[submodule "blocks/configurable_reports"]
-	path = blocks/configurable_reports
-	url = https://github.com/jleyva/moodle-block_configurablereports
-	branch = MOODLE_36_STABLE
 [submodule "admin/tool/webanalytics"]
 	path = admin/tool/webanalytics
 	url = https://github.com/catalyst/moodle-tool_webanalytics
@@ -41,3 +37,7 @@
 	path = blocks/xp
 	url = https://github.com/FMCorz/moodle-block_xp
 	branch = v3.6.1
+[submodule "blocks/configurable_reports"]
+	path = blocks/configurable_reports
+	url = https://github.com/jleyva/moodle-block_configurablereports
+	branch = MOODLE_36_STABLE
