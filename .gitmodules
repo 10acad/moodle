@@ -1,6 +1,7 @@
 [submodule "enrol/autoenrol"]
 	path = enrol/autoenrol
 	url = https://github.com/bobopinna/moodle-enrol_autoenrol
+	branch = master
 [submodule "mod/Surveypro"]
 	path = mod/Surveypro
 	url = https://github.com/kordan/moodle-mod_surveypro
