@@ -42,3 +42,7 @@
 	path = blocks/configurable_reports
 	url = https://github.com/jleyva/moodle-block_configurablereports
 	branch = MOODLE_36_STABLE
+[submodule "mod/hvp"]
+	path = mod/hvp
+	url = https://github.com/h5p/h5p-moodle-plugin
+	branch = stable
