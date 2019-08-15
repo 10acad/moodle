@@ -46,3 +46,7 @@
 	path = mod/hvp
 	url = https://github.com/h5p/h5p-moodle-plugin
 	branch = stable
+[submodule "blocks/ranking"]
+	path = blocks/ranking
+	url = https://github.com/willianmano/moodle-block_ranking.git
+	branch = master
